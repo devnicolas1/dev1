@@ -34,4 +34,4 @@ Talvez você já tenha chego a essa conclusão, mas vamos deixar ela bem clara: 
 
 Mas agora que você já sabe o que é o markdown, e como ele está relacionado com seu arquivo README.md, você precisa encontrar um lugar onde você possa escrever textos em markdown com qualidade. A primeira solução, e mais adequada pra quem vai utilizar as anotações em markdown pra aprender programação, é escrever textos diretamente pelo **Visual Studio Code**, o *ambiente de desenvolvimento integrado* (IDE) da Microsoft. Você pode baixar ele [aqui](https://code.visualstudio.com/download).
 
-### // TODO: Adicionar detalhes mais específicos para suporte em markdown no VS Code. Talvez um tutorial básico sobre VS Code também (?)
+### // TODO: Adicionar detalhes mais específicos para suporte em markdown no VS Code. Talvez um tutorial básico sobre VS Code também (?). Referente a issue #3
