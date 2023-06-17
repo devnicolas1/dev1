@@ -53,4 +53,3 @@ Agora, imagine um mundo onde Maria e João podem escrever seus textos de uma man
 ### Tudo isso é papel do Git.
 
 Esse nosso exemplo fictício serve para chegar na definição final do que é Git: *é uma ferramenta de versionamento de projetos**. Simples assim. Não precisa se preocupar com os detalhes técnicos por agora. Você só precisa entender que **Git é a ferramenta que possibilita que pessoas de qualquer lugar do planeta, a qualquer horário, trabalhem no mesmo projeto, acompanhem em tempo real o desenvolvimento de cada uma das versões do projeto (independente do quão pequenas sejam as mudanças), e revisem e consertem todos os erros que acontecem ao longo do projeto.** É uma ferramenta capaz de criar uma linha do tempo que mostra exatamente cada versão do projeto, com todas as suas atualizações e novidades.
-### // TODO: Adicionar detalhes mais específicos para suporte em markdown no VS Code. Talvez um tutorial básico sobre VS Code também (?). Referente a issue #3
